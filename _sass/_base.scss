@@ -116,11 +116,13 @@ blockquote {
 
 .profile {
   width: 100%;
+  
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 11px;
 
     p {
       display: inline-block;
@@ -137,10 +139,11 @@ blockquote {
   margin-right: 1rem;
 }
 
+// size of images
+// 20 was ok tryin smaler
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
-
+    width: 15%;
     .address {
       p {
         display: block;
@@ -331,6 +334,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
 
   .container {
     color: var(--global-footer-text-color);
