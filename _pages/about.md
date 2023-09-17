@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 I am an Assistant Professor at the [Computation-based Science and Technology Research Center](https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html) at [The Cyprus Institute](https://www.cyi.ac.cy/). I obtained my MSc and PhD from the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/), where I remained as a Research Associate and subsequently an Honorary Research Fellow.  I completed my undergraduate studies at the [Department of Informatics and Telecommunications](http://www.di.uoa.gr/eng) at [the University of Athens](http://en.uoa.gr/), Greece, and have also held Lecturer and Visiting Researcher positions at the [Department of Computing](http://www.gold.ac.uk/computing/) at [Goldsmiths, University of London](http://www.gold.ac.uk/), and the [Dept. of Computer Science](https://www.cs.rutgers.edu/
 ), [Rutgers University](http://www.rutgers.edu/) respectively.
 
-I am interested in developing machine learning algorithms (ML) that are robust, efficient, generalizable, and interpretable - often by learning representations that carry such properties in a deep learning context (DL).  
+I am interested in developing machine learning (ML) algorithms that are robust, efficient, generalizable, and interpretable - often by learning representations that carry such properties in a deep learning (DL) context .  
 
 I work in a wide range of applications, such as  computer vision (CV) and natural language processing (NLP), while I am particularly interested in inter-disciplinary applications, such as machine learning for climate monitoring and earth observation, health, and science.  
 
