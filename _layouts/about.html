@@ -40,7 +40,10 @@ layout: default
             {{ content }}
           </div>
 
+          <hr>
+
           <!-- News -->
+          <!-- NOTE: change <h2> before <a href="..." to change size of 'news' title in about page -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
             {%- include news.html limit=true %}
