@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   align: left
   address: >
-    <p>Assistant Professor</p>
+    <p>Assoc. Professor</p>
     <p><a href="https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html">CASTORC</a>,<a href="https://www.cyi.ac.cy/">CyI</a></p>
 
   # address: >
