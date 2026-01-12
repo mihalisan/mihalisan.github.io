@@ -10,27 +10,18 @@ profile:
   image_circular: false # crops the image to make it circular
   align: left
   address: >
-  <p>Asst. Professor</p>
-  <p><a href="https://www.cs.ucy.ac.cy">CS</a>,<a href="https://www.ucy.ac.cy/>UCY</a></p>
-  #  <p>Assoc. Professor</p>
-  #  <p><a href="https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html">CASTORC</a>,<a href="https://www.cyi.ac.cy/">CyI</a></p>
+    <p>Assoc. Professor</p>
+    <p><a href="https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html">CASTORC</a>,<a href="https://www.cyi.ac.cy/">CyI</a></p>
 
-  # address: >
-  #   <p>Assistant Professor</p>
-  #   <p>Computation-based Science and Technology Research Center</p>
-  #   <p>The Cyprus Institute</p>    
+
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor at the [Department of Computer Science](https://www.cs.ucy.ac.cy") at the [University of Cyprus](https://www.ucy.ac.cy). Previously, I was Associate Professor at the [Computation-based Science and Technology Research Center](https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html) at [The Cyprus Institute](https://www.cyi.ac.cy/), and have also held faculty and Visiting Researcher positions at the [Department of Computing](http://www.gold.ac.uk/computing/) at [Goldsmiths, University of London](http://www.gold.ac.uk/), and the [Dept. of Computer Science](https://www.cs.rutgers.edu/
-), [Rutgers University](http://www.rutgers.edu/) respectively. 
-
-I obtained my MSc and PhD from the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/), where I remained as a Research Associate and subsequently an Honorary (Senior) Research Fellow.  I completed my undergraduate studies at the [Department of Informatics and Telecommunications](http://www.di.uoa.gr/eng) at [the University of Athens](http://en.uoa.gr/), Greece. 
-<!-- I am an Associate Professor at the [Computation-based Science and Technology Research Center](https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html) at [The Cyprus Institute](https://www.cyi.ac.cy/). I obtained my MSc and PhD from the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/), where I remained as a Research Associate and subsequently an Honorary Research Fellow.  I completed my undergraduate studies at the [Department of Informatics and Telecommunications](http://www.di.uoa.gr/eng) at [the University of Athens](http://en.uoa.gr/), Greece, and have also held faculty and Visiting Researcher positions at the [Department of Computing](http://www.gold.ac.uk/computing/) at [Goldsmiths, University of London](http://www.gold.ac.uk/), and the [Dept. of Computer Science](https://www.cs.rutgers.edu/
-), [Rutgers University](http://www.rutgers.edu/) respectively. -->
+I am an Associate Professor at the [Computation-based Science and Technology Research Center](https://www.cyi.ac.cy/index.php/castorc/about-the-center/castorc-center-overview.html) at [The Cyprus Institute](https://www.cyi.ac.cy/). I obtained my MSc and PhD from the [Department of Computing](https://www.imperial.ac.uk/computing) at [Imperial College London](https://www.imperial.ac.uk/), where I remained as a Research Associate and subsequently an Honorary Research Fellow.  I completed my undergraduate studies at the [Department of Informatics and Telecommunications](http://www.di.uoa.gr/eng) at [the University of Athens](http://en.uoa.gr/), Greece, and have also held faculty and Visiting Researcher positions at the [Department of Computing](http://www.gold.ac.uk/computing/) at [Goldsmiths, University of London](http://www.gold.ac.uk/), and the [Dept. of Computer Science](https://www.cs.rutgers.edu/
+), [Rutgers University](http://www.rutgers.edu/) respectively.
 
 I am interested in developing machine learning (ML) algorithms that are robust, efficient, generalizable, and interpretable - often by learning representations that carry such properties in a deep learning (DL) context. 
 
